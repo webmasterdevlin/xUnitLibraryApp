@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{5CB5540E-A656-4261-A89F-8987D035246A}|Default">
+  <MonoDevelop.Ide.ItemProperties.LibraryApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LibraryApp/appsettings.json">
+    <Files>
+      <File FileName="LibraryApp/appsettings.json" Line="1" Column="1" />
+      <File FileName="LibraryApp.Test/LibraryApp.Test.csproj" Line="21" Column="11" />
+      <File FileName="LibraryApp/LibraryApp.csproj" Line="19" Column="10" />
+      <File FileName="LibraryApp/appsettings.Development.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LibraryApp" expanded="True">
+            <Node name="LibraryApp" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" selected="True" />
+            </Node>
+            <Node name="LibraryApp.Test" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

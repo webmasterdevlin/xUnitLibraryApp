@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/inmetadeveloper/Documents/Development/AspNet/xUnitLibraryApp/LibraryApp/LibraryApp.csproj": {}
+    "/Users/inmetadeveloper/Documents/Development/AspNet/xUnitLibraryAppLynda/LibraryApp/LibraryApp.csproj": {}
   },
   "projects": {
-    "/Users/inmetadeveloper/Documents/Development/AspNet/xUnitLibraryApp/LibraryApp/LibraryApp.csproj": {
+    "/Users/inmetadeveloper/Documents/Development/AspNet/xUnitLibraryAppLynda/LibraryApp/LibraryApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/inmetadeveloper/Documents/Development/AspNet/xUnitLibraryApp/LibraryApp/LibraryApp.csproj",
+        "projectUniqueName": "/Users/inmetadeveloper/Documents/Development/AspNet/xUnitLibraryAppLynda/LibraryApp/LibraryApp.csproj",
         "projectName": "LibraryApp",
-        "projectPath": "/Users/inmetadeveloper/Documents/Development/AspNet/xUnitLibraryApp/LibraryApp/LibraryApp.csproj",
+        "projectPath": "/Users/inmetadeveloper/Documents/Development/AspNet/xUnitLibraryAppLynda/LibraryApp/LibraryApp.csproj",
         "packagesPath": "/Users/inmetadeveloper/.nuget/packages/",
-        "outputPath": "/Users/inmetadeveloper/Documents/Development/AspNet/xUnitLibraryApp/LibraryApp/obj/",
+        "outputPath": "/Users/inmetadeveloper/Documents/Development/AspNet/xUnitLibraryAppLynda/LibraryApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/inmetadeveloper/.nuget/NuGet/NuGet.Config"
@@ -40,11 +40,11 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.1, )"
+              "version": "[5.0.2, )"
             },
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
-              "version": "[5.0.1, )"
+              "version": "[5.0.2, )"
             },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
@@ -73,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
         }
       }
     }
